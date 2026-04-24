@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ليل يا عين يا سحر الأماني
+> قلبي يدق لك في أحلى الأغاني
+> تعالي في حضني ونسي الزمان
+> حبك في دمي ونور المكان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
